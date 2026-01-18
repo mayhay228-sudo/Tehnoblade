@@ -1,0 +1,17 @@
+body{
+font-family:Verdana;
+  background-color:#fcba03;
+}
+h1{
+    background-color:#fc2c03;
+    text-align:center;
+}
+p{
+    text-align:center;
+    font-family:Verdana;
+}
+h2{
+    text-align:center;
+    font-family:Georgia;
+   color:#fc2c03;
+}
